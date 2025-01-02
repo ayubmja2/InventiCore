@@ -15,7 +15,7 @@ It provides features such as adding and removing products, categorizing items, t
 ## System Design
 Below is the UML diagram that illustrates the system's architecture:
 
-![UML Diagram](./docs/UML5.png)
+![UML Diagram](./InventiCore/docs/UML5.png)
 
 ## Getting Started 
 
